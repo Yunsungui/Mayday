@@ -1,2 +1,2 @@
 # Mayday
-Cocos2d-x_Potpolio
+Cocos2d-x_Portfolio
